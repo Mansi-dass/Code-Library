@@ -1,5 +1,4 @@
 /*
-
     LINKED LIST THROUGH C
 --> create node with struct & also typedef can be used ,just remember to refer Node *next as struct Node* next
 --> need to create pointers* for creating nodes in main class
@@ -10,7 +9,6 @@
 --> stdlib.h is need to be imported to use memory allocation
 --> And don't forger to printf() need %d,%c,%f,%s for output
 --> Above points is must to remmemeber as it is the main diff from java code other than that logic remain same.
-
 */
 
 #include <stdio.h>
